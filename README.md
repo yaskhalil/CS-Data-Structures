@@ -32,14 +32,3 @@ This repository showcases a variety of **data structures and algorithmic impleme
    ```bash
    git clone https://github.com/yaskhalil/CS-Data-Structures.git
    cd CS-Data-Structures
-javac Codes/ArtistTask/*.java Codes/MazeProgram/*.java Codes/MusicBox/*.java Codes/SuperList/*.java Codes/TheLift/*.java Codes/TreeSet/*.java
-java Codes.ArtistTask.Main
-/CS-Data-Structures/
-├── ArtistTask/
-│   ├── Main.java
-│   └── ArtistList.java
-├── MazeProgram/
-├── MusicBox/
-├── SuperList/
-├── TheLift/
-└── TreeSet/
