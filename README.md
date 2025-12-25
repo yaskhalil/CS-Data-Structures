@@ -1,4 +1,4 @@
-# 🎓 CS-Data-Structures – Java Projects  
+# 🎓 CS-Data-Structures - Highschool – Java Projects  
 
 This repository showcases a variety of **data structures and algorithmic implementations** in **Java**. Each project focuses on a specific concept, such as **binary search trees**, **object-oriented design**, and **graph traversal**.
 
